@@ -1,3 +1,19 @@
+/*
+ * Problem Statement:
+ * Write a Java program to calculate and display the total
+ * rental cost for a car based on rental days.
+ */
+
+/*
+ * Class Name: CarRental
+ *
+ * Description:
+ * This class represents a car rental system where customer
+ * details and rental duration are stored. It calculates the
+ * total rental cost based on the number of rental days and
+ * displays the rental bill.
+ */
+
 class CarRental {
 
     private String customerName;
