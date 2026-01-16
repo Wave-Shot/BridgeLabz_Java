@@ -1,3 +1,18 @@
+/*
+ * Problem Statement:
+ * Write a Java program to create a Circle class and calculate
+ * the area and circumference of a circle.
+ */
+
+/*
+ * Class Name: Circle
+ *
+ * Description:
+ * This class represents a geometric circle with a radius attribute.
+ * It provides methods to calculate the area and circumference of
+ * the circle and demonstrates method invocation using an object.
+ */
+
 // Class Circle represents a geometric circle
 class Circle {
 
