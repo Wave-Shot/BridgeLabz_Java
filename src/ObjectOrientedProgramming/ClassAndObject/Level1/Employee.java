@@ -1,3 +1,18 @@
+/*
+ * Problem Statement:
+ * Write a Java program to create an Employee class, store employee
+ * details, and display them using a class method.
+ */
+
+/*
+ * Class Name: Employee
+ *
+ * Description:
+ * This class represents an Employee entity with attributes such as
+ * name, id, and salary. It demonstrates object creation, attribute
+ * assignment, and displaying employee details using a method.
+ */
+
 // Class Employee represents an employee entity
 class Employee {
 
