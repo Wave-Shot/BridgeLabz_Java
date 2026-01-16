@@ -1,3 +1,18 @@
+/*
+ * Problem Statement:
+ * Write a Java program to demonstrate the use of a copy constructor
+ * by copying data from one object to another.
+ */
+
+/*
+ * Class Name: Person
+ *
+ * Description:
+ * This class demonstrates the concept of a copy constructor in Java.
+ * It allows creating a new Person object by copying the values of
+ * another existing Person object.
+ */
+
 // Person class demonstrates copy constructor
 class Person {
 
