@@ -1,3 +1,19 @@
+/*
+ * Problem Statement:
+ * Write a Java program to create a Book class using encapsulation,
+ * constructors, and display book details.
+ */
+
+/*
+ * Class Name: Book
+ *
+ * Description:
+ * This class represents a Book entity using encapsulation.
+ * It uses private attributes, a default constructor, a
+ * parameterized constructor with the 'this' keyword, and
+ * a method to display book details.
+ */
+
 // Book class represents a book entity
 class Book {
 
