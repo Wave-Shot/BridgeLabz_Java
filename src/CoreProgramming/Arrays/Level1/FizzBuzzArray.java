@@ -1,55 +1,83 @@
 import java.util.Scanner;
 
-// Class to store FizzBuzz results in an array
-class FizzBuzzArray {
+/**
+ * Problem Statement:
+ * Write a Java program to find all the factors of a given number
+ * and store them in a dynamically resizing array.
+ *
+ * The program should:
+ * - Take an integer input from the user
+ * - Find all numbers that divide the given number completely
+ * - Store each factor in an array
+ * - Dynamically increase the array size when it becomes full
+ * - Finally, display all the factors of the given number
+ *
+ * This program demonstrates:
+ * - Use of arrays
+ * - Dynamic array resizing logic
+ * - Loops and conditional statements
+ * - User input handling using Scanner
+ */
+
+// Class to find factors of a number and store them in a dynamic array
+class FactorsArray {
 
     public static void main(String[] args) {
 
-        // Scanner object for user input
+        // Scanner object for input
         Scanner input = new Scanner(System.in);
 
-        // Reading the input number
+        // Reading the number
         int number = input.nextInt();
 
-        // Validate positive integer input
-        if (number <= 0) {
-            System.out.println("Invalid input. Enter a positive integer.");
-            return;
-        }
+        // Initial size of the factors array
+        int maxFactor = 10;
 
-        /*
-         * Creating a String array to store results
-         * Index 0 is unused to match position with number (1-based indexing)
-         */
-        String[] results = new String[number + 1];
+        // Array to store factors
+        int[] factors = new int[maxFactor];
 
-        // Loop from 1 to the given number
+        // Index variable to track how many factors are stored
+        int index = 0;
+
+        // Loop from 1 to the number to find factors
         for (int i = 1; i <= number; i++) {
 
-            /*
-             * If number is divisible by both 3 and 5
-             * Must be checked first to avoid missing FizzBuzz
-             */
-            if (i % 3 == 0 && i % 5 == 0) {
-                results[i] = "FizzBuzz";
-            }
-            // If divisible only by 3
-            else if (i % 3 == 0) {
-                results[i] = "Fizz";
-            }
-            // If divisible only by 5
-            else if (i % 5 == 0) {
-                results[i] = "Buzz";
-            }
-            // Otherwise store the number itself
-            else {
-                results[i] = String.valueOf(i);
+            // If i divides the number completely, it is a factor
+            if (number % i == 0) {
+
+                /*
+                 * If array size is full, double its size
+                 * This allows storing more factors dynamically
+                 */
+                if (index == maxFactor) {
+
+                    // Double the size
+                    maxFactor = maxFactor * 2;
+
+                    // Temporary array with increased size
+                    int[] temp = new int[maxFactor];
+
+                    // Copy existing factors to new array
+                    for (int j = 0; j < factors.length; j++) {
+                        temp[j] = factors[j];
+                    }
+
+                    // Assign temp array back to factors
+                    factors = temp;
+                }
+
+                // Store the factor in the array
+                factors[index] = i;
+
+                // Move to next index position
+                index++;
             }
         }
 
-        // Printing the results stored in the array
-        for (int i = 1; i <= number; i++) {
-            System.out.println("Position " + i + " = " + results[i]);
+        // Displaying all factors stored in the array
+        System.out.println("Factors of the number are:");
+        for (int i = 0; i < index; i++) {
+            System.out.println(factors[i]);
         }
     }
 }
