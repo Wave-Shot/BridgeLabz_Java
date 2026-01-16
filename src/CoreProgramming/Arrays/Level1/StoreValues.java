@@ -1,5 +1,21 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to store positive numbers in an array until a
+ * non-positive number is entered or the array limit is reached, and
+ * then calculate and display their sum.
+ */
+
+/*
+ * Class Name: StoreValues
+ *
+ * Description:
+ * This class reads double values from the user, stores up to 10 positive
+ * numbers in an array, stops input when a zero or negative value is entered,
+ * and finally prints all stored values along with their total sum.
+ */
+
 // Class to store numbers and calculate sum
 class StoreValues {
 
