@@ -1,3 +1,18 @@
+/*
+ * Problem Statement:
+ * Write a Java program to create an Item class, calculate the total
+ * cost for a given quantity, and display item details.
+ */
+
+/*
+ * Class Name: Item
+ *
+ * Description:
+ * This class represents an inventory item with attributes such as
+ * item code, item name, and price. It provides methods to calculate
+ * the total cost based on quantity and to display item details.
+ */
+
 // Class Item represents an inventory item
 class Item {
 
