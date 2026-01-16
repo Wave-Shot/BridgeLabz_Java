@@ -1,5 +1,20 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to separate odd and even numbers up to a given
+ * natural number and store them in separate arrays.
+ */
+
+/*
+ * Class Name: OddEvenArray
+ *
+ * Description:
+ * This class accepts a natural number from the user, iterates from 1 up to
+ * that number, separates odd and even numbers into different arrays, and
+ * displays them separately.
+ */
+
 // Class to separate odd and even numbers into different arrays
 class OddEvenArray {
 
