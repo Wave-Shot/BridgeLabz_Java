@@ -1,3 +1,18 @@
+/*
+ * Problem Statement:
+ * Write a Java program to create a Book class, store book details,
+ * and display those details using a class method.
+ */
+
+/*
+ * Class Name: Book
+ *
+ * Description:
+ * This class represents a Book entity with attributes such as title,
+ * author, and price. It provides a method to display the book details
+ * and demonstrates object creation and method invocation in Java.
+ */
+
 // Class Book represents a book entity
 class Book {
 
