@@ -1,5 +1,24 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to find all the factors of a given number
+ * and store them in a dynamically resizing array.
+ *
+ * The program should:
+ * - Take an integer input from the user
+ * - Find all numbers that divide the given number completely
+ * - Store each factor in an array
+ * - Dynamically increase the array size when it becomes full
+ * - Finally, display all the factors of the given number
+ *
+ * This program demonstrates:
+ * - Use of arrays
+ * - Dynamic array resizing logic
+ * - Loops and conditional statements
+ * - User input handling using Scanner
+ */
+
 // Class to find factors of a number and store them in a dynamic array
 class FactorsArray {
 
