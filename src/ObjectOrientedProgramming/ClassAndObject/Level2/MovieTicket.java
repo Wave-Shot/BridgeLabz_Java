@@ -1,3 +1,18 @@
+/*
+ * Problem Statement:
+ * Write a Java program to create a MovieTicket class to book a ticket
+ * and display ticket details.
+ */
+
+/*
+ * Class Name: MovieTicket
+ *
+ * Description:
+ * This class represents a movie ticket with attributes such as
+ * movie name, seat number, and price. It provides methods to book
+ * a ticket and display ticket details.
+ */
+
 // MovieTicket class represents a movie ticket
 class MovieTicket {
 
