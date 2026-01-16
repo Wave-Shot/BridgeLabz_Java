@@ -1,5 +1,24 @@
 import java.util.Scanner;
 
+/**
+ * Problem Statement:
+ * Write a Java program to generate the multiplication table of a given number
+ * and store the results in an array.
+ *
+ * The program should:
+ * - Take an integer input from the user
+ * - Create an array of size 10 to store multiplication results
+ * - Generate the multiplication table from 1 to 10
+ * - Store each multiplication result in the array
+ * - Display the multiplication table using the stored values
+ *
+ * This program demonstrates:
+ * - Use of arrays
+ * - Looping with for loops
+ * - Storing computed values in an array
+ * - User input handling using Scanner
+ */
+
 // Class to store multiplication table in array
 class MultiplicationTableArray {
 
