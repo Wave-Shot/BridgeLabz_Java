@@ -1,3 +1,19 @@
+/*
+ * Problem Statement:
+ * Write a Java program to create a MobilePhone class,
+ * store mobile phone details, and display them.
+ */
+
+/*
+ * Class Name: MobilePhone
+ *
+ * Description:
+ * This class represents a Mobile Phone entity with attributes
+ * such as brand, model, and price. It demonstrates object
+ * creation, attribute assignment, and displaying details
+ * using a class method.
+ */
+
 // Class MobilePhone represents a mobile phone
 class MobilePhone {
 
