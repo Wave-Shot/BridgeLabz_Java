@@ -1,5 +1,20 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to extract digits from a given number
+ * and find the largest and second largest digits using arrays.
+ */
+
+/*
+ * Class Name: LargestSecondLargestDigit
+ *
+ * Description:
+ * This class extracts digits from an integer number,
+ * stores them in an array, and determines the largest
+ * and second largest digits among them.
+ */
+
 // Class to find largest and second largest digit
 class LargestSecondLargestDigit {
 
