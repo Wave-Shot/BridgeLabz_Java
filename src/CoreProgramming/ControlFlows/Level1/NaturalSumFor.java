@@ -1,5 +1,21 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to calculate the sum of first n
+ * natural numbers using both the mathematical formula
+ * and a for loop, and compare the results.
+ */
+
+/*
+ * Class Name: NaturalSumFor
+ *
+ * Description:
+ * This class reads a natural number from the user,
+ * calculates the sum of natural numbers using a formula
+ * and a for loop, and displays both results.
+ */
+
 // Class to compare sum using for loop
 class NaturalSumFor {
 
