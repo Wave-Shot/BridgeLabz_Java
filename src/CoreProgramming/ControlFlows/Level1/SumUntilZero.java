@@ -1,5 +1,21 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to continuously accept numbers
+ * from the user and calculate their sum until the user
+ * enters zero. Finally, display the total sum.
+ */
+
+/*
+ * Class Name: SumUntilZero
+ *
+ * Description:
+ * This class reads numeric values from the user and
+ * keeps adding them until the user enters 0, at which
+ * point the total sum is displayed.
+ */
+
 // Class to calculate sum until zero
 class SumUntilZero {
 
