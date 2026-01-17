@@ -1,5 +1,21 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to check which of the three given
+ * numbers is the largest by using boolean expressions.
+ * The program should display true or false for each number.
+ */
+
+/*
+ * Class Name: LargestNumberCheck
+ *
+ * Description:
+ * This class reads three integer numbers from the user
+ * and checks whether the first, second, or third number
+ * is the largest using logical operators.
+ */
+
 // Class to check largest number
 class LargestNumberCheck {
 
