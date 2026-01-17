@@ -1,5 +1,21 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to extract all digits of a given number
+ * using a dynamically resizing array and find the largest
+ * and second largest digits from the number.
+ */
+
+/*
+ * Class Name: DynamicDigitsArray
+ *
+ * Description:
+ * This class demonstrates how to store digits of a number
+ * using a dynamically resized array and determine the
+ * largest and second largest digits among them.
+ */
+
 // Class to store digits of a number using dynamic array resizing
 class DynamicDigitsArray {
 
