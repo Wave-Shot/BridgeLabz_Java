@@ -1,5 +1,21 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to check whether the first
+ * number is the smallest among three given numbers
+ * using a boolean expression.
+ */
+
+/*
+ * Class Name: SmallestNumberCheck
+ *
+ * Description:
+ * This class reads three integer numbers from the user
+ * and checks whether the first number is the smallest
+ * among them using logical operators.
+ */
+
 // Creating class SmallestNumberCheck
 class SmallestNumberCheck {
 
