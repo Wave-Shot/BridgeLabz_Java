@@ -1,5 +1,22 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to calculate the percentage and grade
+ * of multiple students using a 2D array to store subject marks.
+ * The program should compute percentage and assign grades
+ * based on predefined criteria.
+ */
+
+/*
+ * Class Name: StudentGrades2D
+ *
+ * Description:
+ * This class calculates student percentages and grades
+ * using a 2D array to store marks for Physics, Chemistry,
+ * and Mathematics for multiple students.
+ */
+
 // Class to calculate grades using 2D array
 class StudentGrades2D {
 
