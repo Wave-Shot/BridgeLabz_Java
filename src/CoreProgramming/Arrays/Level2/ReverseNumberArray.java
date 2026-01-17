@@ -1,5 +1,21 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to reverse a given number
+ * using arrays. The program should extract digits,
+ * store them in an array, and display the reversed number.
+ */
+
+/*
+ * Class Name: ReverseNumberArray
+ *
+ * Description:
+ * This class reverses a given integer number by
+ * extracting its digits into an array and then
+ * printing the digits in stored order.
+ */
+
 // Class to reverse a number using arrays
 class ReverseNumberArray {
 
