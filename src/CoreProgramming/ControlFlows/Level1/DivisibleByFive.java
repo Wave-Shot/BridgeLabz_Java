@@ -1,5 +1,20 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to check whether a given number
+ * is divisible by 5 and display the result as true or false.
+ */
+
+/*
+ * Class Name: DivisibleByFive
+ *
+ * Description:
+ * This class reads an integer number from the user,
+ * checks whether it is divisible by 5 using the modulus
+ * operator, and displays the result.
+ */
+
 // Creating class DivisibleByFive
 class DivisibleByFive {
 
