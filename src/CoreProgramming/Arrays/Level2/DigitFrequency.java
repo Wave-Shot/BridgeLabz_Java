@@ -1,5 +1,20 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to find the frequency of each digit
+ * (0–9) in a given integer number using an array.
+ */
+
+/*
+ * Class Name: DigitFrequency
+ *
+ * Description:
+ * This class reads an integer number from the user,
+ * extracts each digit, counts how many times each digit
+ * occurs, and displays the frequency using an array.
+ */
+
 // Class to find frequency of digits in a number
 class DigitFrequency {
 
