@@ -1,5 +1,21 @@
 import java.util.Scanner;
 
+/*
+ * Problem Statement:
+ * Write a Java program to check whether a given number
+ * is a natural number. If it is natural, calculate and
+ * display the sum of first n natural numbers.
+ */
+
+/*
+ * Class Name: NaturalNumberSum
+ *
+ * Description:
+ * This class reads a number from the user, checks whether
+ * it is a natural number, and calculates the sum of first
+ * n natural numbers using the mathematical formula.
+ */
+
 // Class to check natural number and compute sum
 class NaturalNumberSum {
 
