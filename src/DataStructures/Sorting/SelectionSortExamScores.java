@@ -12,6 +12,7 @@ class SelectionSortExamScores {
         for (int i = 0; i < scores.length - 1; i++) {
 
             int minIndex = i;
+            
 
             // Find index of minimum element
             for (int j = i + 1; j < scores.length; j++) {
