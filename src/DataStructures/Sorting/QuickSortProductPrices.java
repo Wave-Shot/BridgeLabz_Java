@@ -12,6 +12,7 @@ class QuickSortProductPrices {
 
         if (low < high) {
 
+            
             // Partition index
             int p = partition(arr, low, high);
 
