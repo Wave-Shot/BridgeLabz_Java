@@ -19,6 +19,7 @@ class LongestConsecutiveSequence {
         for (int num : arr)
             set.add(num);
 
+        
         int maxLength = 0;
 
         for (int num : set) {
