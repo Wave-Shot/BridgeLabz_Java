@@ -15,6 +15,7 @@ class MergeSortBookPrices {
         if (left < right) {
 
             int mid = (left + right) / 2;
+            
 
             // Sort left half
             mergeSort(arr, left, mid);
