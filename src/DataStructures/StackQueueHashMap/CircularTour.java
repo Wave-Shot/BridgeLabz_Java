@@ -13,6 +13,7 @@ class CircularTour {
 
         for (int i = 0; i < petrol.length; i++) {
 
+            
             surplus += petrol[i] - distance[i];
 
             // If surplus becomes negative, reset start
