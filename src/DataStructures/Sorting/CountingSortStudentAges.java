@@ -9,6 +9,7 @@ class CountingSortStudentAges {
 
     static void countingSort(int[] ages) {
 
+        
         int min = 10;
         int max = 18;
 
