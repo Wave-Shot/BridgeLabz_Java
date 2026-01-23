@@ -7,6 +7,7 @@ Doubly Linked List: Library Management System - Complete Implementation
 
 NODE STRUCTURE:
 - BookNode:
+
   bookId (int unique key)
   title (String)
   author (String)
