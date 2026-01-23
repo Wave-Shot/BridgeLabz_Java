@@ -12,6 +12,7 @@ class StockSpan {
         int n = price.length;
         int[] span = new int[n];
         Stack<Integer> st = new Stack<>();
+        
 
         // First day span is always 1
         st.push(0);
