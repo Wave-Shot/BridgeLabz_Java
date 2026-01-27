@@ -48,14 +48,14 @@
  
 - **17-Jan-2026 (Saturday)**: Continued with Object-Oriented Programming questions and pushing to Github.
 
-- **19-Jan-2026 (Monday)**: Introduction to Data Structures and Algorithms. Learned about time complexity, space complexity, and Big-O notation. Practiced basic problems on arrays and complexity analysis.
+- **19-Jan-2026 (Monday)**: Introduction to Linked List concepts. Understood node structure, creation of singly linked list, traversal, insertion, and deletion operations.
 
-- **20-Jan-2026 (Tuesday)**: Worked on array-based DSA problems including searching, sorting basics, and array manipulation techniques.
+- **20-Jan-2026 (Tuesday)**: Introduction to Stacks, Queues, Hashmaps and Hashing Function.
 
-- **21-Jan-2026 (Wednesday)**: Studied Strings in DSA. Solved problems on string reversal, palindrome check, character frequency, and pattern problems.
+- **21-Jan-2026 (Wednesday)**: Studied Sorting Algorithms and Linear Search.
 
-- **22-Jan-2026 (Thursday)**: Introduction to Recursion. Solved basic recursive problems like factorial, Fibonacci, and number reversal. Understood recursion stack flow.
+- **22-Jan-2026 (Thursday)**: Introduction to Binary Search and Runtime Analysis, Big-O Notation.
 
-- **23-Jan-2026 (Friday)**: Learned Searching and Sorting algorithms. Implemented Linear Search, Binary Search, Bubble Sort, and Selection Sort in Java.
+- **23-Jan-2026 (Friday)**: Learned gitflow and built OOPS Banner App.
 
-- **24-Jan-2026 (Saturday)**: Introduction to Linked List concepts. Understood node structure, creation of singly linked list, traversal, insertion, and deletion operations.
+- **24-Jan-2026 (Saturday)**: Continued with OOPS Banner app.
