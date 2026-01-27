@@ -47,3 +47,15 @@
 - **16-Jan-2026 (Friday)**: Completed Methods and String programs. Learned Git and Git Flow process, branch creation, publishing, and daily workflow management.
  
 - **17-Jan-2026 (Saturday)**: Continued with Object-Oriented Programming questions and pushing to Github.
+
+- **19-Jan-2026 (Monday)**: Introduction to Data Structures and Algorithms. Learned about time complexity, space complexity, and Big-O notation. Practiced basic problems on arrays and complexity analysis.
+
+- **20-Jan-2026 (Tuesday)**: Worked on array-based DSA problems including searching, sorting basics, and array manipulation techniques.
+
+- **21-Jan-2026 (Wednesday)**: Studied Strings in DSA. Solved problems on string reversal, palindrome check, character frequency, and pattern problems.
+
+- **22-Jan-2026 (Thursday)**: Introduction to Recursion. Solved basic recursive problems like factorial, Fibonacci, and number reversal. Understood recursion stack flow.
+
+- **23-Jan-2026 (Friday)**: Learned Searching and Sorting algorithms. Implemented Linear Search, Binary Search, Bubble Sort, and Selection Sort in Java.
+
+- **24-Jan-2026 (Saturday)**: Introduction to Linked List concepts. Understood node structure, creation of singly linked list, traversal, insertion, and deletion operations.
