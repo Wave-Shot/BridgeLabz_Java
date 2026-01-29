@@ -59,3 +59,9 @@
 - **23-Jan-2026 (Friday)**: Learned gitflow and built OOPS Banner App.
 
 - **24-Jan-2026 (Saturday)**: Continued with OOPS Banner app.
+
+- **27-Jan-2026 (Tuesday)**: Started with Java Generics.
+
+- **28-Jan-2026 (Wednesday)**: Continued with Java Generics and Collections.
+ 
+- **29-Jan-2026 (Thursday)**: Continued with Java collections.
