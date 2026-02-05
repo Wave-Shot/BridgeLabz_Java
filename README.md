@@ -62,6 +62,16 @@
 
 - **27-Jan-2026 (Tuesday)**: Started with Java Generics.
 
-- **28-Jan-2026 (Wednesday)**: Continued with Java Generics and Collections.
+- **28-Jan-2026 (Wednesday)**: Continued with Java Generics.
  
-- **29-Jan-2026 (Thursday)**: Continued with Java collections.
+- **29-Jan-2026 (Thursday)**: Started with Core Programming and OOP Scenario Based Assignment.
+
+- **30-Jan-2026 (Friday)**: Started with Java Collections.
+ 
+- **31-Jan-2026 (Saturday)**: Continued with Java Collections and started with iostreams.
+
+- **2-Feb-2026 (Monday)**: Started with Exceptions and exceptions handling.
+
+- **3-Feb-2026 (Tuesday)**: Started with OOPS & Data Structures Learning Project(OceanFleet App)
+
+- **4-Feb-2026 (Wednesday)**: Continued with OOPS & Data Structures Learning Project(OceanFleet App)
