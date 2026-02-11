@@ -75,3 +75,13 @@
 - **3-Feb-2026 (Tuesday)**: Started with OOPS & Data Structures Learning Project(OceanFleet App)
 
 - **4-Feb-2026 (Wednesday)**: Continued with OOPS & Data Structures Learning Project(OceanFleet App)
+  
+- **5-Feb-2026 (Thursday)**: Started with Java Regex and Units.
+  
+- **6-Feb-2026 (Friday)**: Continued with Regex and units.
+
+- **7-Feb-2026 (Saturday)**: Soft-skills session and interactions.
+  
+- **9-Feb-2026 (Monday)**: Started with Streams API.
+
+- **10-Feb-2026 (Tuesday)**: Continued with Streams API.
