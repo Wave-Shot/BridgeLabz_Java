@@ -66,4 +66,3 @@ public class ClaimsAnalysis {
                         System.out.println(e.getKey() + " -> " + e.getValue().getSum()));
     }
 }
-
