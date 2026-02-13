@@ -85,3 +85,7 @@
 - **9-Feb-2026 (Monday)**: Started with Streams API.
 
 - **10-Feb-2026 (Tuesday)**: Continued with Streams API.
+
+- **11-Feb-2026 (Wednesday)**: Started with and completed Java Features.
+
+- **12-Feb-2026 (Thursday)**: Started with lexical twist puzzle in java.
