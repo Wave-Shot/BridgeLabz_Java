@@ -89,3 +89,15 @@
 - **11-Feb-2026 (Wednesday)**: Started with and completed Java Features.
 
 - **12-Feb-2026 (Thursday)**: Started with lexical twist puzzle in java.
+
+- **13-Feb-2026 (Friday)**: New concept learnt and started with CSV Data Handling
+
+- **14-Feb-2026 (Saturday)**: Soft-Skills sessions and interactions.
+
+- **16-Feb-2026 (Monday)**: Started with trees from DSA.
+
+- **17-Feb-2026 (Tuesday)**: Continued trees and completed graphs.
+
+- **18-Feb-2026 (Wednesday)**: Started with Design Principles such as Reflections and annotations.
+
+- **19-Feb-2026 (Thursday)**: Started with Design pattern practices.
