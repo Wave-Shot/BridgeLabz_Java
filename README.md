@@ -101,3 +101,64 @@
 - **18-Feb-2026 (Wednesday)**: Started with Design Principles such as Reflections and annotations.
 
 - **19-Feb-2026 (Thursday)**: Started with Design pattern practices.
+
+- **20-Feb-2026 (Friday)**: Continued and completed Design Patterns.
+
+- **21-Feb-2026 (Saturday)**: Soft-skills session and interactions.
+ 
+- **23-Feb-2026 (Monday)**: Started with mySQL concepts learning.
+
+- **24-Feb-2026 (Tuesday)**: Completed mySQL intro practice quesions.
+
+- **25-Feb-2026 (Wednesday)**: Started with ER Diagram and JDBC Intro.
+
+- **26-Feb-2026 (Thursday)**: Continued with ER Diagrams and JDBC.
+
+- **27-Feb-2026 (Friday)**: Completed JDBC practice questions.
+
+- **28-Feb-2026 (Saturday)**: Soft-skills sessions and interactions.
+
+- **2-March-2026 (Monday)**: Started with JDBC Transactions.
+
+- **3-March-2026 (Tuesday)**: Continued with JDBC Transactions.
+
+- **4-March-2026 (Wednesday)**: Started with and completed JSON Data conceptss.
+
+- **5-March-2026 (Thursday)**: Started with Tomcat Servlet.
+
+- **6-March-2026 (Friday)**: Continued with Tomcat Servlet.
+
+- **7-March-2026 (Saturday)**: Soft-skills session and interactions.
+
+- **9-March-2026 (Monday)**: Spring Intro concept and submissions.
+
+- **10-March-2026 (Tuesday)**: Completed spring intro.
+  
+- **11-March-2026 (Wednesday)**: Started with Spring REST API Calls and Request Handling.
+
+- **12-March-2026 (Thursday)**: Continued with Spring REST API Calls.
+
+- **13-March-2026 (Friday)**: Continued with Request Handling.
+
+- **14-March-2026 (Saturday)**: Soft-skills sessions and interactions.
+
+- **16-March-2026 (Monday)**: Completed with Spring REST API calls and Req handling.
+
+- **17-March-2026 (Tuesday)**: Started with Spring Framework tasks.
+
+- **18-March-2026 (Wednesday)**: MOCK Assessment and continuation of spring framework tasks.
+
+- **19-March-2026 (Thursday)**: Completed spring framework.
+
+- **20-March-2026 (Friday)**: Started with Spring Employee Payroll app.
+
+- **21-March-2026 (Saturday)**: Soft-skills sessions and interactions.
+
+- **23-March-2026 (Monday)**: Completed spring employee payroll app.
+
+- **24-March-2026 (Tuesday)**: M1 Assessment.
+
+- **25-March-2026 (Wednesday)**: Started with Spring Employee Payroll app - SQL.
+
+- **26-March-2026 (Thursday)**: Continued with Spring Employee Payroll app - SQL.
+
