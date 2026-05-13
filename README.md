@@ -162,3 +162,84 @@
 
 - **26-March-2026 (Thursday)**: Continued with Spring Employee Payroll app - SQL.
 
+- **27-March-2026 (Friday)**: Continued with Spring Employee Payroll app - SQL.
+
+- **28-March-2026 (Saturday)**: Soft-skills sessions.
+
+- **30-March-2026 (Monday)**: Started with Spring Security.
+
+- **31-March-2026 (Tuesday)**: Continued with Security.
+
+- **1-April-2026 (Wednesday)**: Started with HMS.
+
+- **2-April-2026 (Thursday)**: Continued with HMS.
+
+- **3-April-2026 (Friday)**: Continued with HMS.
+
+- **4-April-2026 (Saturday)**: Soft-skills sessions.
+
+- **6-April-2026 (Monday)**: Started with Fundoo Notes App.
+
+- **7-April-2026 (Tuesday)**: Continued with Fundoo Notes app.
+
+- **8-April-2026 (Wednesday)**: Started JMS with Spring boot.
+
+- **9-April-2026 (Thursday)**: Continued with JMS with Spring Boot.
+
+- **10-April-2026 (Friday)**: Continued with JMS with spring boot.
+
+- **11-April-2026 (Saturday)**: Soft-Skills sessions.
+
+- **13-April-2026 (Monday)**: Started with Spring Batch with Excel Processing in Spring Boot.
+  
+- **14-April-2026 (Tuesday)**: Continued with Spring Batch with Excel Processing in Spring Boot.
+
+- **15-April-2026 (Wednesday)**: Continued with Spring Batch with Excel Processing in Spring Boot.
+
+- **16-April-2026 (Thursday)**: Continued with Spring Batch with Excel Processing in Spring Boot.
+
+- **17-April-2026 (Friday)**: Continued with Spring Batch with Excel Processing in Spring Boot.
+
+- **18-April-2026 (Saturday)**: Soft-skills sessions.
+
+- **19-April-2026 (Monday)**: Started with BookStore_Microservices.
+
+- **20-April-2026 (Tuesday)**: Continued with BookStore_Microservices.
+
+- **21-April-2026 (Wednesday)**: Continued with BookStore_Microservices.
+
+- **22-April-2026 (Thursday)**: Continued with BookStore_Microservices.
+
+- **23-April-2026 (Friday)**: Continued with BookStore_Microservices.
+
+- **24-April-2026 (Saturday)**: Continued with BookStore_Microservices.
+
+- **27-April-2026 (Monday)**: Completed with BookStore_Microservices.
+
+- **28-April-2026 (Tuesday)**: Started with AWS.
+
+- **29-April-2026 (Wednesday)**: Continued with AWS.
+
+- **30-April-2026 (Thursday)**: Continued with AWS.
+
+- **1-May-2026 (Friday)**: Continued with AWS.
+
+- **2-May-2026 (Saturday)**: Soft-skills sessions.
+
+- **4-May-2026 (Monday)**: Started with Digital-Supply-Chain.
+
+- **5-May-2026 (Tuesday)**: Continued with Digital-Supply-Chain.
+
+- **6-May-2026 (Wednesday)**: M1 Reattempt.
+
+- **7-May-2026 (Thursday)**: Continued with Digital-Supply-Chain.
+
+- **8-May-2026 (Friday)**: Continued with Digital-Supply-Chain.
+
+- **9-May-2026 (Saturday)**: Continued with Digital-Supply-Chain.
+
+- **11-May-2026 (Monday)**: Continued with Digital-Supply-Chain.
+
+- **12-May-2026 (Tuesday)**: Continued with Digital-Supply-Chain.
+
+
