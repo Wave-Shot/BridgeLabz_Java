@@ -154,92 +154,96 @@
 
 - **21-March-2026 (Saturday)**: Soft-skills sessions and interactions.
 
-- **23-March-2026 (Monday)**: Completed spring employee payroll app.
+- 23rd March 2026 (Monday): Created new Spring Boot project and repo, implemented REST controllers for Employee Payroll App.
 
-- **24-March-2026 (Tuesday)**: M1 Assessment.
+- 24th March 2026 (Tuesday): Worked on Service layer and Dependency Injection, structured project using layered architecture.
 
-- **25-March-2026 (Wednesday)**: Started with Spring Employee Payroll app - SQL.
+- 25th March 2026 (Wednesday): Integrated database with Spring Boot (JPA + Hibernate), performed CRUD operations.
 
-- **26-March-2026 (Thursday)**: Continued with Spring Employee Payroll app - SQL.
+- 26th March 2026 (Thursday): Added logging, tested APIs using Postman, finalized Employee Payroll backend features and pushed to GitHub.
 
-- **27-March-2026 (Friday)**: Continued with Spring Employee Payroll app - SQL.
+- 27th March 2026 (Friday): Started Hospital Management System backend project using Spring Boot and structured the project with Controller, Service, and Repository layers.
 
-- **28-March-2026 (Saturday)**: Soft-skills sessions.
+- 28th March 2026 (Saturday): Attended Soft Skills / Communication Session.
 
-- **30-March-2026 (Monday)**: Started with Spring Security.
+- 30th March 2026 (Monday): Designed database schema and implemented entity classes for Hospital Management System using JPA and MySQL.
 
-- **31-March-2026 (Tuesday)**: Continued with Security.
+- 31st March 2026 (Tuesday): Developed REST APIs for patient registration, doctor details, and appointment management modules.
 
-- **1-April-2026 (Wednesday)**: Started with HMS.
+- 1st April 2026 (Wednesday): Integrated MySQL database connectivity and tested Hospital Management APIs using Postman.
 
-- **2-April-2026 (Thursday)**: Continued with HMS.
+- 2nd April 2026 (Thursday): Worked on exception handling, validation, and layered architecture improvements for the Hospital Management project.
 
-- **3-April-2026 (Friday)**: Continued with HMS.
+- 3rd April 2026 (Friday): Implemented CRUD operations and optimized API response handling for Hospital Management modules.
 
-- **4-April-2026 (Saturday)**: Soft-skills sessions.
+- 4th April 2026 (Saturday): Attended Soft Skills / Communication Session.
 
-- **6-April-2026 (Monday)**: Started with Fundoo Notes App.
+- 6th April 2026 (Monday): Started Bookstore Management backend project and initialized Spring Boot application structure.
 
-- **7-April-2026 (Tuesday)**: Continued with Fundoo Notes app.
+- 7th April 2026 (Tuesday): Designed entity relationships and created repository interfaces for Bookstore backend services.
 
-- **8-April-2026 (Wednesday)**: Started JMS with Spring boot.
+- 8th April 2026 (Wednesday): Developed REST APIs for book management features including add, update, delete, and retrieve operations.
 
-- **9-April-2026 (Thursday)**: Continued with JMS with Spring Boot.
+- 9th April 2026 (Thursday): Worked on API validations, DTO implementation, and response handling for Bookstore backend.
 
-- **10-April-2026 (Friday)**: Continued with JMS with spring boot.
+- 10th April 2026 (Friday): Integrated MySQL database with Bookstore application and tested endpoints using Postman.
 
-- **11-April-2026 (Saturday)**: Soft-Skills sessions.
+- 11th April 2026 (Saturday): Attended Soft Skills / Communication Session.
 
-- **13-April-2026 (Monday)**: Started with Spring Batch with Excel Processing in Spring Boot.
-  
-- **14-April-2026 (Tuesday)**: Continued with Spring Batch with Excel Processing in Spring Boot.
+- 13th April 2026 (Monday): Practiced Git branching strategies, created feature branches, and pushed backend changes to GitHub repositories.
 
-- **15-April-2026 (Wednesday)**: Continued with Spring Batch with Excel Processing in Spring Boot.
+- 14th April 2026 (Tuesday): Started learning Microservices architecture and explored service-based application development using Spring Boot.
 
-- **16-April-2026 (Thursday)**: Continued with Spring Batch with Excel Processing in Spring Boot.
+- 15th April 2026 (Wednesday): Configured Spring Cloud Config Server and practiced centralized configuration management.
 
-- **17-April-2026 (Friday)**: Continued with Spring Batch with Excel Processing in Spring Boot.
+- 16th April 2026 (Thursday): Worked on authentication and user service modules, implemented API communication between services.
 
-- **18-April-2026 (Saturday)**: Soft-skills sessions.
+- 17th April 2026 (Friday): Practiced GitHub collaboration workflow including pull requests, branch merging, and conflict resolution.
 
-- **19-April-2026 (Monday)**: Started with BookStore_Microservices.
+- 18th April 2026 (Saturday): Attended Soft Skills / Communication Session.
 
-- **20-April-2026 (Tuesday)**: Continued with BookStore_Microservices.
+- 20th April 2026 (Monday): Installed and configured RabbitMQ, practiced asynchronous communication between backend services.
 
-- **21-April-2026 (Wednesday)**: Continued with BookStore_Microservices.
+- 21st April 2026 (Tuesday): Explored Docker basics, created Dockerfiles, and containerized Spring Boot applications.
 
-- **22-April-2026 (Thursday)**: Continued with BookStore_Microservices.
+- 22nd April 2026 (Wednesday): Practiced deployment setup and tested backend services in containerized environments.
 
-- **23-April-2026 (Friday)**: Continued with BookStore_Microservices.
+- 23rd April 2026 (Thursday): Worked on application configuration files and managed database connections for multiple services.
 
-- **24-April-2026 (Saturday)**: Continued with BookStore_Microservices.
+- 24th April 2026 (Friday): Continued Bookstore backend development, improved API functionalities, and completed CRUD workflows.
 
-- **27-April-2026 (Monday)**: Completed with BookStore_Microservices.
+- 25th April 2026 (Saturday): Attended Soft Skills / Communication Session.
 
-- **28-April-2026 (Tuesday)**: Started with AWS.
+- 27th April 2026 (Monday): Finalized Bookstore Management backend project and verified all REST API functionalities.
 
-- **29-April-2026 (Wednesday)**: Continued with AWS.
+- 28th April 2026 (Tuesday): Practiced AWS deployment concepts and configured backend applications for cloud-based database connectivity.
 
-- **30-April-2026 (Thursday)**: Continued with AWS.
+- 29th April 2026 (Wednesday): Revised Spring Boot, Hospital Management System, Bookstore backend, Microservices, GitHub workflows, RabbitMQ, Docker, and deployment concepts through hands-on 
+practice.
 
-- **1-May-2026 (Friday)**: Continued with AWS.
+- 30th April 2026 (Thursday): Started working on the Digital Supply Chain Tracker group microservices project and understood the overall project architecture and service workflow.
 
-- **2-May-2026 (Saturday)**: Soft-skills sessions.
+- 1st May 2026 (Friday): Learned core AWS cloud concepts including cloud computing fundamentals, AWS services overview, and deployment basics.
 
-- **4-May-2026 (Monday)**: Started with Digital-Supply-Chain.
+- 2nd May 2026 (Saturday): Attended Soft Skills / Communication Session.
 
-- **5-May-2026 (Tuesday)**: Continued with Digital-Supply-Chain.
+- 4th May 2026 (Monday): Started development of Auth Service module for the Digital Supply Chain Tracker project using Spring Boot and Microservices architecture.
 
-- **6-May-2026 (Wednesday)**: M1 Reattempt.
+- 5th May 2026 (Tuesday): Implemented authentication APIs including user registration, login functionality, JWT token generation, and password encryption.
 
-- **7-May-2026 (Thursday)**: Continued with Digital-Supply-Chain.
+- 6th May 2026 (Wednesday): Tested Auth Service APIs using Postman and resolved authentication flow and token validation issues.
 
-- **8-May-2026 (Friday)**: Continued with Digital-Supply-Chain.
+- 7th May 2026 (Thursday): Started User Service module and created APIs for user profile management and service communication.
 
-- **9-May-2026 (Saturday)**: Continued with Digital-Supply-Chain.
+- 8th May 2026 (Friday): Integrated MySQL database with User Service and implemented CRUD operations using Spring Data JPA.
 
-- **11-May-2026 (Monday)**: Continued with Digital-Supply-Chain.
+- 9th May 2026 (Saturday): Attended Soft Skills / Communication Session.
 
-- **12-May-2026 (Tuesday)**: Continued with Digital-Supply-Chain.
+- 11th May 2026 (Monday): Continued learning AWS concepts and explored cloud database services, deployment setup, and server configuration basics.
+
+- 12th May 2026 (Tuesday): Implemented centralized database configuration in AWS for the Digital Supply Chain Tracker project and tested cloud database connectivity across services.
+
+- 13th May 2026 (Wednesday): Worked on AWS cloud environment setup, practiced deployment concepts, and continued learning cloud infrastructure and service integration for microservices 
+applications.
 
 
